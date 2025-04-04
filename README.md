@@ -1,6 +1,10 @@
-# spotify-mcp MCP server
+# spotify-multi-mcp MCP server
 
-MCP project to connect Claude with Spotify. Built on top of [spotipy-dev's API](https://github.com/spotipy-dev/spotipy/tree/2.24.0).
+MCP project to connect Claude with Spotify with additional device playback features.
+
+Forked from [spotify-mcp](https://github.com/varunneal/spotify-mcp)
+
+Built on top of [spotipy-dev's API](https://github.com/spotipy-dev/spotipy/tree/2.24.0).
 
 ## Features
 - Start, pause, and skip playback
